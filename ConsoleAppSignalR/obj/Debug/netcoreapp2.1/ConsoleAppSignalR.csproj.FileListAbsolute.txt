@@ -1,0 +1,11 @@
+C:\SherryChen\CaseDemo\ConsoleApp\ConsoleAppSignalR\ConsoleAppSignalR\bin\Debug\netcoreapp2.1\ConsoleAppSignalR.deps.json
+C:\SherryChen\CaseDemo\ConsoleApp\ConsoleAppSignalR\ConsoleAppSignalR\bin\Debug\netcoreapp2.1\ConsoleAppSignalR.dll
+C:\SherryChen\CaseDemo\ConsoleApp\ConsoleAppSignalR\ConsoleAppSignalR\obj\Debug\netcoreapp2.1\ConsoleAppSignalR.csprojAssemblyReference.cache
+C:\SherryChen\CaseDemo\ConsoleApp\ConsoleAppSignalR\ConsoleAppSignalR\obj\Debug\netcoreapp2.1\ConsoleAppSignalR.AssemblyInfoInputs.cache
+C:\SherryChen\CaseDemo\ConsoleApp\ConsoleAppSignalR\ConsoleAppSignalR\obj\Debug\netcoreapp2.1\ConsoleAppSignalR.AssemblyInfo.cs
+C:\SherryChen\CaseDemo\ConsoleApp\ConsoleAppSignalR\ConsoleAppSignalR\bin\Debug\netcoreapp2.1\ConsoleAppSignalR.pdb
+C:\SherryChen\CaseDemo\ConsoleApp\ConsoleAppSignalR\ConsoleAppSignalR\obj\Debug\netcoreapp2.1\ConsoleAppSignalR.dll
+C:\SherryChen\CaseDemo\ConsoleApp\ConsoleAppSignalR\ConsoleAppSignalR\obj\Debug\netcoreapp2.1\ConsoleAppSignalR.pdb
+C:\SherryChen\CaseDemo\ConsoleApp\ConsoleAppSignalR\ConsoleAppSignalR\bin\Debug\netcoreapp2.1\ConsoleAppSignalR.runtimeconfig.json
+C:\SherryChen\CaseDemo\ConsoleApp\ConsoleAppSignalR\ConsoleAppSignalR\bin\Debug\netcoreapp2.1\ConsoleAppSignalR.runtimeconfig.dev.json
+C:\SherryChen\CaseDemo\ConsoleApp\ConsoleAppSignalR\ConsoleAppSignalR\obj\Debug\netcoreapp2.1\ConsoleAppSignalR.genruntimeconfig.cache
